@@ -4,18 +4,18 @@
 ## Checklist:
 
 1. SOLID Design Principles
-  * Single-responsibility principle
-  * Open-close principle
-  * Liskov principle
-  * Interface principle
-  * Dependency inversion principle
+  * [Single-responsibility principle](https://github.com/xenyal/To-Do-2015/tree/master/SOLID/SRP)
+  * [Open-close principle](https://github.com/xenyal/To-Do-2015/tree/master/SOLID/OCP)
+  * [Liskov substitution principle](https://github.com/xenyal/To-Do-2015/tree/master/SOLID/LSP)
+  * [Interface segregation principle](https://github.com/xenyal/To-Do-2015/tree/master/SOLID/ISP)
+  * [Dependency inversion principle](https://github.com/xenyal/To-Do-2015/tree/master/SOLID/DIP)
 
 2. GOF Design Patterns
 	* Creational Patterns
 	  * Abstract Factory: Creates an instance of several families of classes
 	  * Builder: Separates object construction from its representation
 	  * Factory Method: Creates an instance of several derived classes
-	  * Prototype: A fully initialized instance to be copied or cloned
+	  * Prototype: A fully initialized instance to be copied or cloned	
 	  * Singleton: A class of which only a single instance can exist
 
 	* Structural Patterns
