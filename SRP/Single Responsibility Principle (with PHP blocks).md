@@ -1,4 +1,5 @@
 ## Single Responsibility Principle
+**Creds to Samuel Oloruntoba(@kayandrae07) from Scotch IO**
 SRP, in short, states that:
 > A class should have one and only one reason to change, meaning that a class should only have one job.
 For example, say we have a couple of shapes and we want to find the sum of all the areas of the shapes.
@@ -84,5 +85,5 @@ echo $output->HAML();
 echo $output->HTML();
 echo $output->JADE();
 ```
- 
+
 Now, whatever logic you need to output the data to the user is now handled by the SumCalculatorOutputter class.
